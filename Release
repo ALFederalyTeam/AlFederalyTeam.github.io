@@ -1,0 +1,8 @@
+Origin: AlFederalyTeam's Repo
+Label: AlFederalyTeam's Official Repo
+Suite: stable
+Version: 1.0.0.5
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Federaly
